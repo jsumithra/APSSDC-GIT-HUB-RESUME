@@ -35,7 +35,7 @@
 ### **Goals**
 I want to become a 'software developer' in MNC
 
-###**Hobbies**
+### **Hobbies**
 -Reading <br>
 -Cooking <br>
 -Listening to Music <br>
