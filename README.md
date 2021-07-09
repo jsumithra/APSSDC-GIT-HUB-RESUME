@@ -26,13 +26,13 @@
 - Percentage : 95% <br>
 - Address :Tirupati <br>
 
-###**Skills**
+### **Skills**
 - C++-80%
 - Java-80%
 - HTML-90%
 - CSS-80%
 
-###**Goals**
+### **Goals**
 I want to become a 'software developer' in MNC
 
 ###**Hobbies**
